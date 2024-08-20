@@ -4,7 +4,7 @@ import 'package:appcrudfirestore/models/productsmodel.dart';
 
 class ProductsController {
   //método assíncrono -> "ler e devolve"
-  Future<List<ProductsModel>> findCargos() async {
+  Future<List<ProductsModel>> findProducts() async {
     var jsonFile = await rootBundle.loadString('assets/products.json');
     //o dart convert o arquivo String (json) em dados
     List<dynamic> positions = json.decode(jsonFile) as List;

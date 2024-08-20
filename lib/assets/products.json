@@ -1,0 +1,303 @@
+[
+    {
+      "id": "1",
+      "name": "Laptop",
+      "brand": "Dell",
+      "price": "1200.00"
+    },
+    {
+      "id": "2",
+      "name": "Smartphone",
+      "brand": "Apple",
+      "price": "999.99"
+    },
+    {
+      "id": "3",
+      "name": "Headphones",
+      "brand": "Sony",
+      "price": "199.99"
+    },
+    {
+      "id": "4",
+      "name": "Smartwatch",
+      "brand": "Samsung",
+      "price": "299.99"
+    },
+    {
+      "id": "5",
+      "name": "Tablet",
+      "brand": "Lenovo",
+      "price": "399.99"
+    },
+    {
+      "id": "6",
+      "name": "Monitor",
+      "brand": "LG",
+      "price": "250.00"
+    },
+    {
+      "id": "7",
+      "name": "Keyboard",
+      "brand": "Logitech",
+      "price": "50.00"
+    },
+    {
+      "id": "8",
+      "name": "Mouse",
+      "brand": "Microsoft",
+      "price": "30.00"
+    },
+    {
+      "id": "9",
+      "name": "Printer",
+      "brand": "HP",
+      "price": "150.00"
+    },
+    {
+      "id": "10",
+      "name": "Camera",
+      "brand": "Canon",
+      "price": "500.00"
+    },
+    {
+      "id": "11",
+      "name": "Speakers",
+      "brand": "Bose",
+      "price": "300.00"
+    },
+    {
+      "id": "12",
+      "name": "External Hard Drive",
+      "brand": "Seagate",
+      "price": "100.00"
+    },
+    {
+      "id": "13",
+      "name": "USB Flash Drive",
+      "brand": "SanDisk",
+      "price": "20.00"
+    },
+    {
+      "id": "14",
+      "name": "Router",
+      "brand": "TP-Link",
+      "price": "60.00"
+    },
+    {
+      "id": "15",
+      "name": "Gaming Console",
+      "brand": "Sony",
+      "price": "499.99"
+    },
+    {
+      "id": "16",
+      "name": "Smart TV",
+      "brand": "Samsung",
+      "price": "700.00"
+    },
+    {
+      "id": "17",
+      "name": "Bluetooth Speaker",
+      "brand": "JBL",
+      "price": "120.00"
+    },
+    {
+      "id": "18",
+      "name": "Smart Thermostat",
+      "brand": "Nest",
+      "price": "250.00"
+    },
+    {
+      "id": "19",
+      "name": "Coffee Maker",
+      "brand": "Nespresso",
+      "price": "150.00"
+    },
+    {
+      "id": "20",
+      "name": "Electric Toothbrush",
+      "brand": "Oral-B",
+      "price": "100.00"
+    },
+    {
+      "id": "21",
+      "name": "Fitness Tracker",
+      "brand": "Fitbit",
+      "price": "130.00"
+    },
+    {
+      "id": "22",
+      "name": "Air Purifier",
+      "brand": "Dyson",
+      "price": "450.00"
+    },
+    {
+      "id": "23",
+      "name": "Drone",
+      "brand": "DJI",
+      "price": "600.00"
+    },
+    {
+      "id": "24",
+      "name": "Portable Charger",
+      "brand": "Anker",
+      "price": "40.00"
+    },
+    {
+      "id": "25",
+      "name": "Electric Kettle",
+      "brand": "Cuisinart",
+      "price": "70.00"
+    },
+    {
+      "id": "26",
+      "name": "Blender",
+      "brand": "Vitamix",
+      "price": "350.00"
+    },
+    {
+      "id": "27",
+      "name": "Microwave Oven",
+      "brand": "Panasonic",
+      "price": "200.00"
+    },
+    {
+      "id": "28",
+      "name": "Washing Machine",
+      "brand": "Whirlpool",
+      "price": "800.00"
+    },
+    {
+      "id": "29",
+      "name": "Refrigerator",
+      "brand": "GE",
+      "price": "1500.00"
+    },
+    {
+      "id": "30",
+      "name": "Dishwasher",
+      "brand": "Bosch",
+      "price": "900.00"
+    },
+    {
+      "id": "31",
+      "name": "Oven",
+      "brand": "LG",
+      "price": "1000.00"
+    },
+    {
+      "id": "32",
+      "name": "Vacuum Cleaner",
+      "brand": "Dyson",
+      "price": "500.00"
+    },
+    {
+      "id": "33",
+      "name": "Iron",
+      "brand": "Philips",
+      "price": "60.00"
+    },
+    {
+      "id": "34",
+      "name": "Hair Dryer",
+      "brand": "Revlon",
+      "price": "40.00"
+    },
+    {
+      "id": "35",
+      "name": "Hair Straightener",
+      "brand": "GHD",
+      "price": "150.00"
+    },
+    {
+      "id": "36",
+      "name": "Water Filter",
+      "brand": "Brita",
+      "price": "40.00"
+    },
+    {
+      "id": "37",
+      "name": "Electric Scooter",
+      "brand": "Xiaomi",
+      "price": "400.00"
+    },
+    {
+      "id": "38",
+      "name": "Electric Bike",
+      "brand": "Rad Power",
+      "price": "1500.00"
+    },
+    {
+      "id": "39",
+      "name": "Air Conditioner",
+      "brand": "Frigidaire",
+      "price": "350.00"
+    },
+    {
+      "id": "40",
+      "name": "Dehumidifier",
+      "brand": "Honeywell",
+      "price": "300.00"
+    },
+    {
+      "id": "41",
+      "name": "Smart Lock",
+      "brand": "August",
+      "price": "200.00"
+    },
+    {
+      "id": "42",
+      "name": "Video Doorbell",
+      "brand": "Ring",
+      "price": "150.00"
+    },
+    {
+      "id": "43",
+      "name": "Security Camera",
+      "brand": "Arlo",
+      "price": "300.00"
+    },
+    {
+      "id": "44",
+      "name": "Smart Light Bulbs",
+      "brand": "Philips Hue",
+      "price": "60.00"
+    },
+    {
+      "id": "45",
+      "name": "Electric Shaver",
+      "brand": "Braun",
+      "price": "120.00"
+    },
+    {
+      "id": "46",
+      "name": "Smart Plug",
+      "brand": "TP-Link",
+      "price": "30.00"
+    },
+    {
+      "id": "47",
+      "name": "Robot Vacuum",
+      "brand": "iRobot",
+      "price": "600.00"
+    },
+    {
+      "id": "48",
+      "name": "Electric Grill",
+      "brand": "George Foreman",
+      "price": "80.00"
+    },
+    {
+      "id": "49",
+      "name": "Rice Cooker",
+      "brand": "Zojirushi",
+      "price": "180.00"
+    },
+    {
+      "id": "50",
+      "name": "Slow Cooker",
+      "brand": "Crock-Pot",
+      "price": "100.00"
+    }
+  ]
+  

@@ -20,7 +20,7 @@ class ProductsModel {
   }
 
   static ProductsModel fromMap(Map<String, dynamic> map) {
-    if (map == null) {}
+   // if (map == null) {}
 
     return ProductsModel(
         id: map['id'],
